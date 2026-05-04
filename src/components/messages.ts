@@ -320,6 +320,7 @@ export const labels: Record<string, string> = {
   links: 'label.links',
   pixel: 'label.pixel',
   pixels: 'label.pixels',
+  companies: 'label.companies',
   addBoard: 'label.add-board',
   selectComponent: 'label.select-component',
   addLink: 'label.add-link',
